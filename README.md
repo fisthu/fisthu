@@ -7,7 +7,6 @@
 I like turning ideas into useful things and making technology feel a little simpler.
 
 [![GitHub](https://img.shields.io/badge/GitHub-fisthu-181717?style=flat-square&logo=github)](https://github.com/fisthu)
-[![Profile views](https://komarev.com/ghpvc/?username=fisthu&style=flat-square&color=0e75b6)](https://github.com/fisthu)
 
 </div>
 
@@ -42,9 +41,11 @@ The best place to find my latest work is here on GitHub:
 
 <div align="center">
 
-![Oki's GitHub stats](https://github-readme-stats.vercel.app/api?username=fisthu&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+<a href="https://github.com/fisthu?tab=overview">Activity</a> ·
+<a href="https://github.com/fisthu?tab=repositories">Repositories</a> ·
+<a href="https://github.com/fisthu?tab=stars">Starred projects</a>
 
-<br />
+<br /><br />
 
 <sub>Thanks for visiting — keep building things that matter. ✨</sub>
 
